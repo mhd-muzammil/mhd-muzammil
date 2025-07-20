@@ -49,15 +49,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhd-muzammil&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhd-muzammil&theme=radical" width="47%" />
-</p>
-
----
-
 ## 📚 Currently Learning
 
 - 🔸 Mastering **JavaScript** (DOM, ES6, fetch API, async/await)
