@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mhd Muzammil
+# 👋 Hi, I'm Mohamed Muzammil
 
 🚀 Aspiring Front-End Developer | Software Developer I'm Passionate about building clean and responsive web apps with modern technologies.
 
