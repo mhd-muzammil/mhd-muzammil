@@ -39,6 +39,10 @@
   <a href="https://mhd-muzammil.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-008C73?style=for-the-badge&logo=paddle&logoColor=white" alt="Portfolio"/></a>
 </div>
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <br>
 
 <div align="center">
