@@ -39,14 +39,16 @@
   <a href="https://mhd-muzammil.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-008C73?style=for-the-badge&logo=paddle&logoColor=white" alt="Portfolio"/></a>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://komarev.com/ghpvc/?username=mhd-muzammil&style=for-the-badge&color=blueviolet" alt="Profile Views">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramsaoji&style=for-the-badge&color=blueviolet" alt="Profile Views">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center" width="100%">
