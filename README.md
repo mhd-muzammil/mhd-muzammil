@@ -5,6 +5,7 @@
     width="100%"
   />
 </div>
+https://capsule-render.vercel.app/api?type=waving&height=180&color=FFFFFF&text=Mohamed%20Muzammil&fontColor=FACC15&fontAlign=51&fontAlignY=40&animation=twinkling&rotate=0&stroke=00FF00&strokeWidth=0&desc=DEVELOPER&descAlign=86&descAlignY=65&descSize=15&textBg=false
 
 
 <h2 align="center" style="font-size: clamp(1.5rem, 3vw, 2rem);">Frontend Developer | React & Express Specialist | MERN Stack Developer</h2>
