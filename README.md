@@ -1,6 +1,6 @@
 <div align="center" style="width: 100%;">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FOFAFA,100:f8acff&height=160&section=header&text=Mohamed%20Muzammil&fontSize=50&animation=fadeIn&fontAlignY=32&fontColor=696eff" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:696eff,100:f8acff&height=160&section=header&text=Mohamed%20Muzammil&fontSize=50&animation=fadeIn&fontAlignY=32&fontColor=f0fafa" 
     alt="Mohamed Muzammil Header" 
     width="100%"
   />
